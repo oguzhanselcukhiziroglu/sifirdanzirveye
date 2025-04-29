@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title> Local </title>
+	</head>
+	<body>
+		<center><h1> Local publish for employees from boot-vpc-a </h1><center>
+		<center><img src="Local.jpg" alt="Local photo"</center>
+	</body>
+</html>
