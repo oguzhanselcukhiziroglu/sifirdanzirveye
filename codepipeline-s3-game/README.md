@@ -6,7 +6,7 @@ This repo contains the code files.
 Code for a game is hosted in GitHub.  We create an S3 bucket for static website hosting, then create a continuous deployment pipeline (using AWS Code Pipeline) to automatically deploy the code whenever changes are made.
 
 ## The Game
-A simple memory matching game.  The user clicks two cards (images of memes) to try to match them.  If there's a match, the cards disappear from the board.  If there's no match, the cards are flipped back to their blank side so the user can try again.
+A simple memory matching game.  The user clicks two cards (images of cards) to try to match them.  If there's a match, the cards disappear from the board.  If there's no match, the cards are flipped back to their blank side so the user can try again.
 
 The game consists of HTML, CSS and JavaScript.
 
